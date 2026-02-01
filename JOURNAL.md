@@ -1,4 +1,4 @@
-# Total Time Spent - About 22 Hours
+# Total Time Spent - About 23 Hours
 
 ## 1/26/2026 - Finished the Schematic - About 6 Hours  
 
@@ -36,5 +36,11 @@ I have since decided this is the only one I'll focus on
 _Time spent: 2.0h_  
 
 In hindsite I proboally should have choosen the componenets before making the PCB but all is fine since im using fairly common parts. I will be using JLC Assembly so the BOM is a bit funnky. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzNzEsInB1ciI6ImJsb2JfaWQifX0=--ded186af3b8697b323c0a2d9edbe126149fd19c9/image.png)
+
+## 2/1/2026 5 PM - Finished Repo - About an Hour  
+
+_Time spent: 1.0h_  
+
+Made a Repo and made it look nice. Don't look ot close at the commits...  After looking at the prices PCBway might be cheaper but I'm just waiting for a quote. I was going to use jlc but it cost way too much in assembly cost (And I don't think I could do such precise SMD work)![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY1MTcsInB1ciI6ImJsb2JfaWQifX0=--bb8db3de0f0d36e321a122d091d395c054463f01/image.png)  
   
 
