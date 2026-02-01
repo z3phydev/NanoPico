@@ -40,4 +40,4 @@ Once you recive the PCB download the 16mb.uf2 file. Plug it into your pc while s
 |RP2040             |U1                                                          |LQFN-56 (7x7)                    |C2040       |RP2040         |
 |16MB Flash Storage |U2                                                          |SOIC-8-208mil                    |C97521      |W25Q128JVSIQ   |
 
-## Total Price if using JLC with assembly should come to around GBP (USD)
+## Total Price if using PCBWAY with assembly should come to around 45 GBP (60 USD)
