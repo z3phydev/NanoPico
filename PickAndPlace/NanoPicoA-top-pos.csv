@@ -1,0 +1,9 @@
+Designator ,Val,Package,Mid X,Mid Y,Rotation,Layer
+C10,100nF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1.9925,6.4,0,top
+C11,100nF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,2.0025,5.61,0,top
+C21,100nF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,12.65,6.1575,90,top
+C22,15pF,C_0603_1608Metric,11.19,7.77,0,top
+J2,USB_A,USB_A_Molex_48037-2200_Horizontal,7.68,-6.005,-90,top
+SW1,FLASH,SWPAD,11.99,13.1375,0,top
+SW2,RESET,SWPAD,11.98,10.91,0,top
+U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,5.3275,11.3,180,top
